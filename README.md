@@ -6,7 +6,7 @@ My degree involved various modules regarding biomechanics, medical imaging, and 
 - A digital stethoscope.  
 - A raspberry pi controlled robotic model tank with a turret to fire foam pellets. (For the Pi Wars Competition)  
 - A bicycle pedal with live force feedback for a paraplegic athlete to use on a FES bike in the Cybathlon.  
--An arm wrestling arcade game.  
+- An arm wrestling arcade game.  
 - Synthetic biological toggle switches.  
 - A volumetric infrared imaging system (VIRIS) for the diagnoses and monitoring of breast-cancer related lymphoedema.  
 
