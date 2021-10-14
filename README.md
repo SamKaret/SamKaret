@@ -2,7 +2,7 @@ Hi, I'm Sam Karet
 I recently graduated from Imperial College London with a Master's in Biomedical Engineering.
 I'm a passionate problem solver with wide ranging interests, and experience with medical devices, robotics, and 3D printing.
 
-My degree involved various modules regarding biomechanics, medical imaging, and programming, as well as a variety of opportunities for project work, both large and small. Here are some examples of projects I worked on during my course:
+My degree involved various modules regarding biomechanics, medical imaging, and programming, as well as a variety of opportunities for project work, both large and small. Here are some examples of projects I worked on during my course:  
 ● A digital stethoscope.  
 ● A raspberry pi controlled robotic model tank with a turret to fire foam pellets. (For the Pi Wars Competition)  
 ● A bicycle pedal with live force feedback for a paraplegic athlete to use on a FES bike in the Cybathlon.  
