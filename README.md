@@ -1,4 +1,4 @@
-Hi, I'm Sam Karet
+Hi, I'm Sam Karet  
 I recently graduated from Imperial College London with a Master's in Biomedical Engineering.
 I'm a passionate problem solver with wide ranging interests, and experience with medical devices, robotics, and 3D printing.
 
